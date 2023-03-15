@@ -1,5 +1,9 @@
 [
   {
+    "package": "HPLB",
+    "oncran": true
+  },
+  {
     "package": "quantregForest",
     "oncran": true
   }
