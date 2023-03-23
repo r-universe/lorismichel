@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "drf"]
+	path = drf
+	url = https://github.com/cran/drf
+	shallow = true
+	registered = true
 [submodule "HPLB"]
 	path = HPLB
 	url = https://github.com/lorismichel/hplb
