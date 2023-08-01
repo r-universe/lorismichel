@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "drf"]
-	path = drf
-	url = https://github.com/cran/drf
 [submodule "HPLB"]
 	path = HPLB
 	url = https://github.com/lorismichel/hplb
+[submodule "drf"]
+	path = drf
+	url = https://github.com/cran/drf
 [submodule "quantregForest"]
 	path = quantregForest
 	url = https://github.com/lorismichel/quantregforest
